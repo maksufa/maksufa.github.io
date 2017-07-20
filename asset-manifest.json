@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "main.css": "static/css/main.0a233982.css",
   "main.css.map": "static/css/main.0a233982.css.map",
   "main.js": "static/js/main.78394fbd.js",
@@ -10,4 +11,11 @@
   "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
   "static/media/nodejs-logo.png": "static/media/nodejs-logo.994977c4.png"
+=======
+  "main.css": "static/css/main.cacbacc7.css",
+  "main.css.map": "static/css/main.cacbacc7.css.map",
+  "main.js": "static/js/main.9b627375.js",
+  "main.js.map": "static/js/main.9b627375.js.map",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+>>>>>>> a74eac2f333c9c4ce7d3f5d5d2539d6ec3d848e5
 }
