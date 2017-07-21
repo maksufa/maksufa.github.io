@@ -1,12 +1,32 @@
 {
+<<<<<<< HEAD
   "main.css": "static/css/main.005fbd96.css",
   "main.css.map": "static/css/main.005fbd96.css.map",
   "main.js": "static/js/main.d5c10a50.js",
   "main.js.map": "static/js/main.d5c10a50.js.map",
+=======
+<<<<<<< HEAD
+  "main.css": "static/css/main.0a233982.css",
+  "main.css.map": "static/css/main.0a233982.css.map",
+  "main.js": "static/js/main.78394fbd.js",
+  "main.js.map": "static/js/main.78394fbd.js.map",
+>>>>>>> 61ea3f20302785f41d8056948dc55417f603c53d
   "static/media/fontawesome-webfont.eot?v=4.7.0": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
   "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+<<<<<<< HEAD
   "static/media/nodejs-logo.png": "static/media/nodejs-logo.994977c4.png"
+=======
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/nodejs-logo.png": "static/media/nodejs-logo.994977c4.png"
+=======
+  "main.css": "static/css/main.cacbacc7.css",
+  "main.css.map": "static/css/main.cacbacc7.css.map",
+  "main.js": "static/js/main.9b627375.js",
+  "main.js.map": "static/js/main.9b627375.js.map",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+>>>>>>> a74eac2f333c9c4ce7d3f5d5d2539d6ec3d848e5
+>>>>>>> 61ea3f20302785f41d8056948dc55417f603c53d
 }
